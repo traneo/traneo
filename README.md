@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I’m Tadeu
 
-<!--
-**traneo/traneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Engineer | Cloud Solutions Architect | Tech Explorer
 
-Here are some ideas to get you started:
+I’m passionate about building **scalable, high-performance systems** with clean architecture and automation.  
+My work spans fintech, cloud-native platforms, and AI-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python | C# | Go  
+- **Cloud:** AWS (Certified Solutions Architect) | Azure  
+- **Systems:** Microservices | Middleware | APIs | Web Services  
+- **Specialties:** AI/LLMs | Fintech | Secure Integrations | SSO  
+
+---
+
+## 📂 Featured Projects
+
+- ⚡ **Cryptocurrency Trading Integration** – Bringing crypto trading into online banking platforms.  
+- 🌐 **Global Campaign Solutions** – Enterprise-scale systems powering Samsung’s worldwide campaigns.  
+- 🤖 **AI/LLM Experiments** – Exploring agents, prompt engineering, and applied AI in production systems.  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=traneo&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=traneo&layout=compact&theme=radical)
+
+---
+
+## 🌍 About Me
+
+- Based in **Campo Grande, Brazil** 🌎  
+- Always exploring new ways to simplify complexity with elegant solutions.  
+- Open to collaboration on projects involving **cloud, AI, and fintech innovation**.  
+
+📫 Reach me at: [tadeurodriguesarias@outlook.com](mailto:tadeurodriguesarias@outlook.com)  
+🔗 Connect: [LinkedIn](https://www.linkedin.com/in/traneo/) | [Resume](https://tadeuarias.azurewebsites.net/)
