@@ -24,13 +24,6 @@ My work spans fintech, cloud-native platforms, and AI-driven solutions.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=traneo&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=traneo&layout=compact&theme=radical)
-
----
-
 ## 🌍 About Me
 
 - Based in **Campo Grande, Brazil** 🌎  
